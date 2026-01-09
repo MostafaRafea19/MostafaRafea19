@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Mostafa Rafea
+**Senior Backend Engineer** specialized in High-Availability Distributed Systems.
+*Transitioning into AI Engineering & Data Science.*
 
-<!--
-**MostafaRafea19/MostafaRafea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable architectures using **Laravel**, **MongoDB**, **Redis**, and **RabbitMQ**, while expanding into **Python** for AI Automation and Sports Analytics.
 
-Here are some ideas to get you started:
+🔭 **Current Focus:**
+* 🏗️ **Architecture:** Designing Event-Driven Microservices (see `EventCore`).
+* ⚽ **Data Science:** Building AI-driven predictors for Sports Analytics (see `FPL-Nerds`).
+* 🦸 **Automation:** Creating AI Content Pipelines for media (see `Comic-AI-Factory`).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+* **Backend:** PHP 8.3, Laravel 11, Node.js
+* **AI/Data:** Python, FastAPI, Pandas, Scikit-Learn
+* **Infrastructure:** Docker, RabbitMQ, Redis, MongoDB
